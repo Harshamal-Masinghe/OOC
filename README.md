@@ -1,6 +1,6 @@
 # Object-Oriented Consept (OOC) Module
 
-This repository contains my assignment and resources related to the Object-Oriented Programming module in Year 01 Semester 02.
+This repository contains my assignment and resources related to the Object-Oriented Consept module in Year 01 Semester 02.
 
 ## Assignments
 
