@@ -1,0 +1,70 @@
+﻿  Booking.cpp
+  Doctor.cpp
+D:\OOC\OOC Assignment\Doctor.h(9,65): error C2969: syntax error: ';': expected member function definition to end with '}'
+D:\OOC\OOC Assignment\Doctor.cpp(3,16): error C2275: 'std::string': expected an expression instead of a type
+D:\OOC\OOC Assignment\Doctor.cpp(3,23): error C2146: syntax error: missing ')' before identifier 'dName'
+D:\OOC\OOC Assignment\Doctor.cpp(3,52): error C2630: ';' found in what should be a comma-separated list
+D:\OOC\OOC Assignment\Doctor.cpp(3,52): error C2612: trailing ':' illegal in base/member initializer list
+D:\OOC\OOC Assignment\Doctor.cpp(10,1): fatal  error C1004: unexpected end-of-file found
+  Feedback.cpp
+  OOC Assignment.cpp
+D:\OOC\OOC Assignment\Guest.h(6,13): error C2011: 'Guest': 'class' type redefinition
+D:\OOC\OOC Assignment\Guest.h(6,7): message : see declaration of 'Guest'
+D:\OOC\OOC Assignment\RegisteredUser.h(4,37): error C2504: 'Guest': base class undefined
+D:\OOC\OOC Assignment\RegisteredUser.h(4,22): error C2011: 'RegisteredUser': 'class' type redefinition
+D:\OOC\OOC Assignment\RegisteredUser.h(4,7): message : see declaration of 'RegisteredUser'
+D:\OOC\OOC Assignment\Patient.h(4,39): error C2504: 'RegisteredUser': base class undefined
+D:\OOC\OOC Assignment\Patient.h(8,201): error C2969: syntax error: ';': expected member function definition to end with '}'
+D:\OOC\OOC Assignment\Order.h(3,7): error C2059: syntax error: 'using namespace'
+D:\OOC\OOC Assignment\Order.h(3,20): error C2630: ';' found in what should be a comma-separated list
+D:\OOC\OOC Assignment\Order.h(5,7): error C2059: syntax error: '<class-head>'
+D:\OOC\OOC Assignment\Order.h(5,13): error C2630: ';' found in what should be a comma-separated list
+D:\OOC\OOC Assignment\Patient.h(8,122): error C2614: 'Patient': illegal member initialization: 'RegisteredUser' is not a base or member
+D:\OOC\OOC Assignment\Patient.h(8,188): error C2614: 'Patient': illegal member initialization: 'Guest' is not a base or member
+D:\OOC\OOC Assignment\Order.h(6,1): error C2059: syntax error: 'private'
+D:\OOC\OOC Assignment\Order.h(8,1): error C2059: syntax error: 'public'
+D:\OOC\OOC Assignment\Staff.h(5,13): error C2011: 'Staff': 'class' type redefinition
+D:\OOC\OOC Assignment\Staff.h(5,7): message : see declaration of 'Staff'
+D:\OOC\OOC Assignment\Doctor.h(5,29): error C2504: 'Staff': base class undefined
+D:\OOC\OOC Assignment\Doctor.h(9,65): error C2969: syntax error: ';': expected member function definition to end with '}'
+D:\OOC\OOC Assignment\Booking.h(3,7): error C2059: syntax error: 'using namespace'
+D:\OOC\OOC Assignment\Booking.h(3,20): error C2630: ';' found in what should be a comma-separated list
+D:\OOC\OOC Assignment\Booking.h(5,7): error C2059: syntax error: '<class-head>'
+D:\OOC\OOC Assignment\Booking.h(6,1): error C2630: ';' found in what should be a comma-separated list
+D:\OOC\OOC Assignment\Doctor.h(9,47): error C2614: 'Doctor': illegal member initialization: 'Staff' is not a base or member
+D:\OOC\OOC Assignment\Booking.h(8,1): error C2059: syntax error: 'public'
+D:\OOC\OOC Assignment\Supplier.h(3,40): error C2504: 'RegisteredUser': base class undefined
+D:\OOC\OOC Assignment\Supplier.h(7,203): error C2969: syntax error: ';': expected member function definition to end with '}'
+D:\OOC\OOC Assignment\Vaccine.h(3,7): error C2059: syntax error: 'using namespace'
+D:\OOC\OOC Assignment\Vaccine.h(3,20): error C2630: ';' found in what should be a comma-separated list
+D:\OOC\OOC Assignment\Vaccine.h(5,7): error C2059: syntax error: '<class-head>'
+D:\OOC\OOC Assignment\Vaccine.h(6,1): error C2630: ';' found in what should be a comma-separated list
+D:\OOC\OOC Assignment\Supplier.h(7,123): error C2614: 'Supplier': illegal member initialization: 'RegisteredUser' is not a base or member
+D:\OOC\OOC Assignment\Supplier.h(7,190): error C2614: 'Supplier': illegal member initialization: 'Guest' is not a base or member
+D:\OOC\OOC Assignment\Vaccine.h(7,1): error C2059: syntax error: 'private'
+D:\OOC\OOC Assignment\Vaccine.h(12,1): error C2059: syntax error: 'public'
+D:\OOC\OOC Assignment\Vaccine.h(18,3): error C3861: 'Vaccine': identifier not found
+  Order.cpp
+  Patient.cpp
+D:\OOC\OOC Assignment\Patient.h(8,201): error C2969: syntax error: ';': expected member function definition to end with '}'
+D:\OOC\OOC Assignment\Patient.cpp(3,18): error C2275: 'std::string': expected an expression instead of a type
+D:\OOC\OOC Assignment\Patient.cpp(3,25): error C2146: syntax error: missing ')' before identifier 'pID'
+D:\OOC\OOC Assignment\Patient.cpp(4,5): error C2630: ';' found in what should be a comma-separated list
+D:\OOC\OOC Assignment\Patient.cpp(4,5): error C2612: trailing ':' illegal in base/member initializer list
+D:\OOC\OOC Assignment\Patient.cpp(24,1): fatal  error C1004: unexpected end-of-file found
+  Payment.cpp
+D:\OOC\OOC Assignment\Payment.cpp(10,14): warning C4244: 'argument': conversion from 'float' to 'const _Elem', possible loss of data
+          with
+          [
+              _Elem=char
+          ]
+  Supplier.cpp
+D:\OOC\OOC Assignment\Supplier.h(7,203): error C2969: syntax error: ';': expected member function definition to end with '}'
+D:\OOC\OOC Assignment\Supplier.cpp(3,20): error C2275: 'std::string': expected an expression instead of a type
+D:\OOC\OOC Assignment\Supplier.cpp(3,27): error C2146: syntax error: missing ')' before identifier 'sID'
+D:\OOC\OOC Assignment\Supplier.cpp(4,1): error C2630: ';' found in what should be a comma-separated list
+D:\OOC\OOC Assignment\Supplier.h(7,137): error C2661: 'RegisteredUser::RegisteredUser': no overloaded function takes 5 arguments
+D:\OOC\OOC Assignment\Supplier.h(7,137): message : while trying to match the argument list '(std::string, std::string, int, std::string, std::string)'
+D:\OOC\OOC Assignment\Supplier.h(7,190): error C2614: 'Supplier': illegal member initialization: 'Guest' is not a base or member
+  Vaccine.cpp
+  Generating Code...
