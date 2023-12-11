@@ -5,11 +5,11 @@ This repository contains my assignment, and resources related to the Object-Orie
 ## Assignments
 
 ### Assignment 2: [Assignment Name]
-- [Link to Assignment 1](Assignment 2)
+- [Link to Assignment 1](assignment2/)
 
 ### Past Papers
 
-- [Past Paper 1](past_papers/paper1.pdf)
+- [Past Paper ](past_papers/paper.pdf)
 
 
 Feel free to explore the folders for detailed information about each resource.
