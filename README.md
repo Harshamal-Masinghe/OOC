@@ -5,15 +5,15 @@ This repository contains my assignment and resources related to the Object-Orien
 ## Assignments
 
 ### Assignment 2: Object-Oriented Programming Concepts
-- [Link to Assignment 2](assignment2/)
+- [Link to Assignment 2 Folder](assignment2/)
 
-Assignment 2 focuses on [provide a brief description of the assignment].
+Assignment 2 focuses on [provide a brief description of the assignment]. Explore the contents of the [Assignment 2 folder](assignment2/) for more details.
 
-### Past Papers
+## Past Papers
 
-- [Past Paper](past_papers/paper.pdf)
+- [Link to Past Papers Folder](past_papers/)
 
-Include information about the past paper, such as its relevance or any additional notes.
+Explore the [Past Papers folder](past_papers/) for access to relevant exam papers.
 
 ## How to Run
 
