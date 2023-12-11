@@ -11,9 +11,9 @@ Assignment 2 focuses on [provide a brief description of the assignment]. Explore
 
 ## Past Papers
 
-- [Link to Past Papers Folder]([https://github.com/Harshamal-Masinghe/OOC/tree/47776ea86fb42347f1fb57ddaad19d56c240bc98/Past%20Papers](https://github.com/Harshamal-Masinghe/OOC/tree/47776ea86fb42347f1fb57ddaad19d56c240bc98/Past%20Papers))
+- [Link to Past Papers Folder](https://github.com/Harshamal-Masinghe/OOC/tree/47776ea86fb42347f1fb57ddaad19d56c240bc98/Past%20Papers)
 
-Explore the [Past Papers folder]([https://github.com/Harshamal-Masinghe/OOC/tree/47776ea86fb42347f1fb57ddaad19d56c240bc98/Past%20Papers](https://github.com/Harshamal-Masinghe/OOC/tree/47776ea86fb42347f1fb57ddaad19d56c240bc98/Past%20Papers)) for access to relevant exam papers.
+Explore the [Past Papers folder](https://github.com/Harshamal-Masinghe/OOC/tree/47776ea86fb42347f1fb57ddaad19d56c240bc98/Past%20Papers) for access to relevant exam papers.
 
 ## How to Run
 
